@@ -1,4 +1,4 @@
-name = "lzmq"
+name = "lzmq-ffi"
 version = "0.3.5"
 
 desc = "Lua bindings to ZeroMQ"
